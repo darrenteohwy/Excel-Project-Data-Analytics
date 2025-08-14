@@ -28,7 +28,7 @@ A portfolio showcasing two dashboards analyzing real-world data science job sala
 
 ---
 
-## Project 2 – Data Jobs Dashboard 2.0 (Power BI)
+## Project 2 – Data Jobs Dashboard 2.0 (Analysis)
 
 ![DataJobs Dashboard 2.0 Photo](../images/DataJobs%20Dashboard%202.0%20Photo.png)
 
